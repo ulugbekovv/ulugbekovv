@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **🍔 uOrder**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://ulugbekov.uz](https://ulugbekov.uz)
 
 - 📝 I regularly write articles on [https://ulugbekov.uz/blog](https://ulugbekov.uz/blog)
 
-- 📫 How to reach me **saidbek@ulugbekov.uz**
+- 📫 How to reach me **dev@ulugbekov.uz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
