@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulugbekovv" alt="ulugbekovv" /></a> </p>
 
-- 🔭 I’m currently working on **🍔 uOrder**
+- 🔭 I’m currently working on **🟠 Amber Messenger**
 
 - 🌱 I’m currently learning **React Native**
 
